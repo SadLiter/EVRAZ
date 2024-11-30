@@ -1,2 +1,0 @@
-deff func(a,b):
-    retturn 5
