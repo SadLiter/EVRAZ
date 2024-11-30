@@ -1,0 +1,16 @@
+{
+    "model": "mistral-nemo-instruct-2407",
+    "messages": [
+      {
+        "role": "system",
+        "content": "отвечай на английском языке"
+      },
+      {
+        "role": "user",
+        "content": "prinnt('Hello, world')"
+      }
+    ],
+    "max_tokens": 1024,
+    "temperature": 0.3
+  }
+  
